@@ -1,0 +1,15 @@
+.item {
+    display: flex;
+    width: 100%;
+    margin-bottom: 40px;
+    max-width: 850px;
+    border-bottom: 1px solid black;
+    font-size: 24px;
+}
+.checkContainer {
+    margin-right: 10px;
+}
+
+.title {
+    width: -webkit-fill-available;
+}
